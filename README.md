@@ -1,4 +1,3 @@
-![Uploading chrongler_page-0001.jpg…]()
 # Chrongler.
 
 eurorack open-source module based on forestcover Benjolin with few mods.
