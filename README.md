@@ -1,4 +1,4 @@
-# Chrongler.
+# Chrongler
 
 eurorack open-source module based on forestcover Benjolin with few mods.
 + Rungler clock input.
